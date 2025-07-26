@@ -31,8 +31,10 @@ To implement matrix multiplication using multithreaded programming in C (using P
 
 ## 🧪 How to Run
 
-### ✅ C Program (Pthreads)
-1. Save the file as `matrix_mul.c`
-2. Compile using:
-   ```bash
-   gcc -o matrix_mul matrix_mul.c -pthread
+### ✅ Running C Program (Pthreads)
+
+**Step 1:** Open the Terminal in Ubuntu.
+
+**Step 2:** Create the file:
+```bash
+nano matrix_mul.c
