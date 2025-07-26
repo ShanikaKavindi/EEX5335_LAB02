@@ -33,6 +33,44 @@ To implement matrix multiplication using multithreaded programming in C (using P
 
 ### ✅ Running C Program (Pthreads)
 
+
+Step 3: Paste your C code and save using Ctrl + O, then press Enter, then exit with Ctrl + X.
+
+Step 4: Compile the code:
+
+bash
+Copy
+Edit
+gcc -o matrix_mul matrix_mul.c -pthread
+Step 5: Run the program:
+
+bash
+Copy
+Edit
+./matrix_mul
+☕ Running Java Program (Java Threads)
+Step 1: Create the file:
+
+bash
+Copy
+Edit
+nano MatrixMultiplication.java
+Step 2: Paste your Java code and save (Ctrl + O, Enter, Ctrl + X).
+
+Step 3: Compile the code:
+
+bash
+Copy
+Edit
+javac MatrixMultiplication.java
+Step 4: Run the program:
+
+bash
+Copy
+Edit
+java MatrixMultiplication
+
+
 **Step 1:** Open the Terminal in Ubuntu.
 
 **Step 2:** Create the file:
